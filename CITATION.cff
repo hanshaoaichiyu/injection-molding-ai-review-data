@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this dataset using the metadata below."
+title: "Evidence-coding dataset and reproducible D-by-V heatmap for intelligent process-parameter decision-making in polymer injection molding"
+type: dataset
+version: 1.0.0
+license:
+  - CC-BY-4.0
+  - MIT
+authors:
+  - family-names: "Han"
+    given-names: "Ningsheng"
+  - family-names: "Ma"
+    given-names: "Yitao"
+  - family-names: "Li"
+    given-names: "Zhongjie"
+  - family-names: "Dang"
+    given-names: "Kaifang"
+  - family-names: "Yang"
+    given-names: "Weimin"
+  - family-names: "Xie"
+    given-names: "Pengcheng"
+repository-code: "https://github.com/hanshaoaichiyu/injection-molding-ai-review-data"

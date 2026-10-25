@@ -1,0 +1,11 @@
+License scope
+Data, tables, figures and explanatory documentation created by the dataset
+authors are licensed under Creative Commons Attribution 4.0 International:
+https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Python source code in code/ is licensed under MIT; see code/LICENSE.
+Third-party articles, quoted source evidence and bibliographic material retain
+their applicable rights; this notice does not relicense the source publications.
+
+Dataset authors: Ningsheng Han, Yitao Ma, Zhongjie Li, Kaifang Dang, Weimin Yang, Pengcheng Xie
