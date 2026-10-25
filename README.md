@@ -102,4 +102,4 @@ Third-party publications retain their own rights.
 Dataset creators, in order: Ningsheng Han, Yitao Ma, Zhongjie Li, Kaifang Dang, Weimin Yang, Pengcheng Xie.
 
 
-Private preparation only: no public release or DOI has been registered.
+Version 1.0.0 supports the author-confirmed dataset with the 25 October 2026 literature cutoff. Data/documentation: CC BY 4.0; Python code: MIT. The DOI link will be added after the Zenodo archive is verified.
