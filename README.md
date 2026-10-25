@@ -96,10 +96,10 @@ release does not fabricate measurements or experimental images.
 Citation and reuse
 ------------------
 Use the repository record's citation metadata and persistent DOI when citing this
-dataset. No DOI has been inserted before repository registration. Data and explanatory documentation: CC BY 4.0 (see LICENSE.txt).
+dataset. The fixed-version DOI is https://doi.org/10.5281/zenodo.23641277. Data and explanatory documentation: CC BY 4.0 (see LICENSE.txt).
 Python source code: MIT (see code/LICENSE).
 Third-party publications retain their own rights.
 Dataset creators, in order: Ningsheng Han, Yitao Ma, Zhongjie Li, Kaifang Dang, Weimin Yang, Pengcheng Xie.
 
 
-Version 1.0.0 supports the author-confirmed dataset with the 25 October 2026 literature cutoff. Data/documentation: CC BY 4.0; Python code: MIT. The DOI link will be added after the Zenodo archive is verified.
+Version 1.0.0 supports the author-confirmed dataset with the 25 October 2026 literature cutoff. Data/documentation: CC BY 4.0; Python code: MIT. Fixed-version archive: https://doi.org/10.5281/zenodo.23641277 (version 1.0.0).
