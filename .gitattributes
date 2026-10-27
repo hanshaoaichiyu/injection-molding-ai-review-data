@@ -1,0 +1,3 @@
+# The historical package remains available in the repository and v1.0.0 tag.
+# New source archives contain only the current primary-only package.
+/Injection_molding_evidence_dataset_v1.0.0.zip export-ignore
