@@ -16,4 +16,4 @@ This release contains only the 151 primary D/V records. Non-primary comparison/c
 Data/documentation: CC BY 4.0, see LICENSE_DATA.txt in the dataset archive. Python code: MIT, see Supplementary/heatmap_generation/LICENSE. Creators in confirmed order: Ningsheng Han; Yitao Ma; Zhongjie Li; Kaifang Dang; Weimin Yang; Pengcheng Xie.
 
 ## Version and citation
-Version 1.1.0 is the curated 151-primary-publication release supporting the final review. Cite its fixed-version DOI from the associated Zenodo release record. The earlier fixed version 1.0.0 remains unchanged at https://doi.org/10.5281/zenodo.23641277 . No archived version is overwritten.
+Version 1.1.0 is the curated 151-primary-publication release supporting the final review. Cite the verified fixed-version DOI for version 1.1.0: https://doi.org/10.5281/zenodo.23688943 . The publicly accessible archive and files are at https://zenodo.org/records/23688943 . The earlier fixed version 1.0.0 remains unchanged at https://doi.org/10.5281/zenodo.23641277 . No archived version is overwritten.
