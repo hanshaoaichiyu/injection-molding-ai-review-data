@@ -1,7 +1,7 @@
 {
   "title": "Evidence-coding dataset and reproducible D-by-V heatmap for intelligent process-parameter decision-making in polymer injection molding",
-  "description": "Supporting evidence dataset and reproducible Figure 4 workflow for the review \"Intelligent Process Parameter Decision-Making in Polymer Injection Molding: From Initial Setting to In-Process Adaptation\". The selected coded ledger contains 158 records: 151 primary-analysis records and seven coded background/conventional-method comparators. Nine recent ungraded context/abstract records are separately listed. The manuscript cites 210 publications. Literature cutoff: 25 October 2026. Bounded WoS updates on 24 and 25 October added no included study; historical queries retain their recorded dates and filters. The English S1, matching CSVs, input data, Python script, pinned dependency, reference heatmap and checksums are supplied in the dataset archive. D and V are paired within the same application; frequencies describe this selected narrative-review evidence set, not field-wide prevalence. No third-party article full texts, private author-review logs, correspondence, permissions or raw database record exports are included. Data and documentation are CC BY 4.0; the Python code is MIT, with the scope specified in LICENSE.txt and code/LICENSE. OpenAI Codex using GPT-6.1 (OpenAI) assisted the author-led script refinement and consistency checks. Scientific coding remains author-confirmed.",
-  "version": "1.0.0",
+  "description": "Supporting data and reproducible Figure4workflow for the review 'Intelligent Process Parameter Decision-Making in Polymer Injection Molding: From Initial Setting to In-Process Adaptation'. Version1.1.0 contains only the151primary research publications. Primary D/Vassignments and the matrix are unchanged; literature cutoff27October2026 with historical query dates/windows preserved. English S1, matching evidence/method CSVs, input data, Python script, dependencies, reference heatmap, licenses and checksums are included. D and Vrefer to the same application; frequencies describe this selected narrative-review evidence set, not field-wide prevalence. No literature fulltexts, private author-review records, permission documents, correspondence or raw database exports are included. Data/documentation CC BY4.0; Python codeMIT; exact scope in LICENSE_DATA.txt and Supplementary/heatmap_generation/LICENSE. OpenAI Codex using GPT-6.1 (OpenAI) assisted author-led script refinement and consistency checks; scientific assignments are author-confirmed.",
+  "version": "1.1.0",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "cc-by-4.0",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Ma, Yitao",
-      "affiliation": "Beijing University of Chemical Technology; Haitian Plastics Machinery Group Co., Ltd."
+      "affiliation": "Haitian Plastics Machinery Group Co., Ltd.; State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology; School of Mechanical Engineering, Zhejiang University"
     },
     {
       "name": "Li, Zhongjie",
