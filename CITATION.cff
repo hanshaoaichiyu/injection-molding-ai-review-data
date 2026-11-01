@@ -4,6 +4,8 @@
   "title": "Evidence-coding dataset and reproducible D-by-V heatmap for intelligent process-parameter decision-making in polymer injection molding",
   "type": "dataset",
   "version": "1.2.0",
+  "doi": "10.5281/zenodo.23860930",
+  "date-released": "2026-11-01",
   "license": [
     "CC-BY-4.0",
     "MIT"

@@ -2,6 +2,10 @@
 
 Version 1.2.0 supports the accompanying review *Intelligent Process Parameter Decision-Making in Polymer Injection Molding: From Initial Setting to In-Process Adaptation*.
 
+## Version and citation
+
+Version 1.2.0 is publicly archived under the fixed-version DOI [10.5281/zenodo.23860930](https://doi.org/10.5281/zenodo.23860930). The files and version metadata are available on the [Zenodo record](https://zenodo.org/records/23860930). Cite this fixed version for the accompanying review; earlier archived versions remain unchanged.
+
 ## Evidence scope
 
 This package contains the same 151 primary research publications, stable source IDs and author-confirmed D/V assignments as the corresponding evidence set in version 1.1.0. One record represents one publication's complete implemented system; D and V refer to the same application. Frequencies describe the selected evidence set of a structured critical narrative review, not field-wide prevalence.
